@@ -34,7 +34,7 @@
 ```bash
 # 1. 克隆本项目到 Claude Code 的 skills 目录
 cd ~/.claude/skills/
-git clone https://github.com/dazexcl/llm-wiki.git
+git clone https://github.com/Joe-rq/siyuan-llm-wiki.git
 
 # 2. 初始化知识库（创建笔记本、目录结构、核心文档）
 cd llm-wiki

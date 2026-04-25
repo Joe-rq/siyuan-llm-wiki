@@ -1,0 +1,22 @@
+[
+  {"query": "我刚读完一篇关于 RAG 的论文，想把它整理到我的知识库里，帮我处理一下", "should_trigger": true},
+  {"query": "帮我 ingest 这篇文章到 wiki", "should_trigger": true},
+  {"query": "思源笔记里有没有关于向量数据库的内容？", "should_trigger": true},
+  {"query": "帮我整理一下今天的会议笔记，归纳出几个关键实体", "should_trigger": true},
+  {"query": "我想看看 RAG 和 GraphRAG 之间有什么关系，帮我从知识库里找一下", "should_trigger": true},
+  {"query": "知识库里有没有矛盾的内容？帮我检查一下", "should_trigger": true},
+  {"query": "这篇文档质量怎么样？帮我检查一下", "should_trigger": true},
+  {"query": "我有几篇文章想整理成结构化的知识，怎么做比较好？", "should_trigger": true},
+  {"query": "SiYuan 笔记本里待审核的内容有哪些？", "should_trigger": true},
+  {"query": "帮我把这篇技术博客的核心知识点提取出来，存到笔记里", "should_trigger": true},
+  {"query": "帮我写一个 Python 脚本处理 CSV 文件", "should_trigger": false},
+  {"query": "Notion 里的数据库怎么用？", "should_trigger": false},
+  {"query": "帮我生成一个随机密码", "should_trigger": false},
+  {"query": "这篇代码有什么 bug？", "should_trigger": false},
+  {"query": "帮我翻译这段英文", "should_trigger": false},
+  {"query": "Obsidian 怎么创建双链？", "should_trigger": false},
+  {"query": "帮我部署一个服务器", "should_trigger": false},
+  {"query": "这个数据库表结构设计合理吗？", "should_trigger": false},
+  {"query": "帮我读一下这个 PDF 文件的内容", "should_trigger": false},
+  {"query": "git merge 冲突怎么解决？", "should_trigger": false}
+]

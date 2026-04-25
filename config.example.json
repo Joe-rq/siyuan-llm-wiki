@@ -1,0 +1,20 @@
+{
+  "notebook": {
+    "id": "",
+    "name": "LLM-Wiki"
+  },
+  "docs": {
+    "index": "",
+    "log": "",
+    "schema": ""
+  },
+  "dirs": {
+    "raw": "",
+    "wiki": "",
+    "wiki_entities": "",
+    "wiki_topics": "",
+    "wiki_sources": "",
+    "wiki_synthesis": ""
+  },
+  "siyuanSkillPath": ""
+}

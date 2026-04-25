@@ -1,5 +1,11 @@
 # LLM Wiki
 
+<p align="center">
+<img src="https://img.shields.io/badge/Powered%20by-Siyuan-6B6DFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDJMMiA3djEwbDEwIDUgMTAtNVY3TDEyIDJ6IiBmaWxsPSIjNkI2REZGIi8+PC9zdmc+&logoColor=white" alt="Siyuan Notes">
+<img src="https://img.shields.io/badge/Agent-Claude%20Code-FF6B35?style=for-the-badge" alt="Claude Code">
+<img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License">
+</p>
+
 > 让 LLM 持续维护你的结构化知识库。
 >
 > **不是 RAG，而是 Wiki**：LLM 主动构建和维护知识库，每次摄入都更新相关页面、建立交叉链接、发现矛盾。知识编译一次，持续更新。
